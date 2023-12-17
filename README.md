@@ -1,9 +1,5 @@
 ### Hi there, I'm Gercidio! 👋
 
-<!--
-**Gercidio/Gercidio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on projects of Generation Brazil Java FullStack Bootcamp, like "GenGames", "blogpessoal" and "conta_bancaria" that you can checkout bellow ;)
 
