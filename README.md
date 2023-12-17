@@ -7,10 +7,3 @@
 
 - 📫 Personal projects: I'm currently working on a project with colleagues about image analysis and sports gestures, trying out some languages and testing my knowledge in technology and physiotherapy, soon you'll be able to checkout here too
 
-💻 Tech Stack:
-Back-end
-![spring](https://github.com/Gercidio/Gercidio/assets/51793269/db13563d-3f44-41cf-9449-cccbd3ba44e3)
-![nodejs](https://github.com/Gercidio/Gercidio/assets/51793269/0df091e9-2e0c-4923-ba81-5539a7ee2fec)
-![mysql](https://github.com/Gercidio/Gercidio/assets/51793269/d9fa31f3-f168-4d48-86f4-c4443f5f8d36)
-![mongodb](https://github.com/Gercidio/Gercidio/assets/51793269/403e28b8-88f5-4552-8a65-a167ea26db51)
-![java](https://github.com/Gercidio/Gercidio/assets/51793269/8c6a3c4e-aac7-4dbb-af88-4cfafd3cc4ef)
